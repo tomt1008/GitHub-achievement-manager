@@ -1,1 +1,1 @@
-this is github achievemtn manager.
+this is github achievenment manager.
